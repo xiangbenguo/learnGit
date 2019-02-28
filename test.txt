@@ -1,3 +1,4 @@
 xiang learning git
 change content
 git diff
+git diff --cached
